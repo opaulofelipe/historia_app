@@ -42,7 +42,6 @@ body {
     border-radius: 12px;
     margin-bottom: 12px;
     background-size: cover;      /* FAZ A IMAGEM PREENCHER */
-    background-position: center; /* CENTRALIZA */
     background-repeat: no-repeat;
 }
 
