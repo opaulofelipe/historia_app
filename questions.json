@@ -1,0 +1,2891 @@
+{
+    "stages": [
+    
+      {
+        "id": "mesopotamia",
+        "title": "Mesopotâmia",
+        "questions": [
+          {
+            "question": "O que significa a palavra Mesopotâmia?",
+            "options": [
+              "Terra entre rios",
+              "Terra dos desertos",
+              "Terra das montanhas",
+              "Terra cercada pelo mar"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Entre quais rios se localizava a região da Mesopotâmia?",
+            "options": [
+              "Nilo e Jordão",
+              "Tigre e Eufrates",
+              "Indo e Ganges",
+              "Danúbio e Reno"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Por que os rios foram fundamentais para o desenvolvimento da Mesopotâmia?",
+            "options": [
+              "Porque permitiam a pesca oceânica",
+              "Porque garantiam solos férteis para a agricultura",
+              "Porque isolavam a região de invasões",
+              "Porque forneciam metais preciosos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qual povo fundou as primeiras cidades da Mesopotâmia?",
+            "options": [
+              "Assírios",
+              "Persas",
+              "Sumérios",
+              "Fenícios"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Como era a organização política dos Sumérios?",
+            "options": [
+              "Império",
+              "Cidades-estado",
+              "República",
+              "Reino"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qual era a principal atividade econômica da Mesopotâmia?",
+            "options": [
+              "Mineração",
+              "Agricultura irrigada",
+              "Comércio marítimo",
+              "Agricultura pastoril"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Para melhorar a produção agrícola, os mesopotâmicos desenvolveram:",
+            "options": [
+              "Técnicas de irrigação",
+              "Fertilizantes naturais",
+              "Pesticidas naturais",
+              "Cultivo em estufas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qual invenção dos sumérios permitiu registrar leis, comércio e religião?",
+            "options": [
+              "Alfabeto",
+              "Imprensa",
+              "Escrita cuneiforme",
+              "Papel"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Em que material era feita a escrita cuneiforme?",
+            "options": [
+              "Papiro",
+              "Pedra",
+              "Placas de argila",
+              "Couro"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Qual era a principal função dos zigurates?",
+            "options": [
+              "Moradia popular",
+              "Fortaleza militar",
+              "Templo religioso",
+              "Mercado comercial"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "A religião mesopotâmica era caracterizada como:",
+            "options": [
+              "Monoteísta",
+              "Politeísta",
+              "Zoroatrista",
+              "Animista"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Como os mesopotâmicos viam seus deuses?",
+            "options": [
+              "Sempre bondosos",
+              "Aspectos da natureza",
+              "Com comportamentos humanos e poderosos",
+              "Como ideias abstratas"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "A sociedade mesopotâmica era:",
+            "options": [
+              "Igualitária",
+              "Sem classes sociais",
+              "Rigidamente estratificada",
+              "Democrática"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quem estava no topo da sociedade mesopotâmica?",
+            "options": [
+              "Grandes comerciantes",
+              "Artesãos",
+              "Reis e sacerdotes",
+              "Chefes Militares"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Qual povo criou o primeiro império da Mesopotâmia?",
+            "options": [
+              "Sumérios",
+              "Assírios",
+              "Acádios",
+              "Caldeus"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quem foi o povo responsável pelo Código de Hamurábi?",
+            "options": [
+              "Acadianos",
+              "Amoritas",
+              "Caldeus",
+              "Assírios"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "O Código de Hamurábi ficou conhecido por:",
+            "options": [
+              "Garantir igualdade",
+              "Estabelecer leis escritas",
+              "Eliminar a escravidão",
+              "Criar eleições"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qual princípio é associado ao Código de Hamurábi?",
+            "options": [
+              "Liberdade religiosa",
+              "Direitos humanos universais",
+              "Olho por olho, dente por dente",
+              "Voto popular"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Qual povo mesopotâmico era conhecido por seu militarismo?",
+            "options": [
+              "Sumérios",
+              "Assírios",
+              "Akkádios",
+              "Caldeus"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qual cidade foi a capital dos povos Amoritas e Caldeus?",
+            "options": [
+              "Ur",
+              "Lagash",
+              "Babilônia",
+              "Nínive"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Os Jardins Suspensos da Babilônia são associados a qual governante?",
+            "options": [
+              "Hamurábi",
+              "Sargão de Acád",
+              "Nabucodonosor II",
+              "Assurbanípal"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "As cheias irregulares dos rios levaram os mesopotâmicos a:",
+            "options": [
+              "Abandonar a agricultura",
+              "Desenvolver técnicas hidráulicas",
+              "Migrar para o Egito",
+              "Viver do comércio marítimo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "A Mesopotâmia localizava-se principalmente em qual país atual?",
+            "options": [
+              "Egito",
+              "Síria",
+              "Iraque",
+              "Turquia"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Por que a Mesopotâmia é chamada de berço da civilização?",
+            "options": [
+              "Por ter se desenvolvido extraordinariamente",
+              "Por ter desenvolvido cidades, leis e escrita",
+              "Por ter criado a filosofia",
+              "Por dominar a navegação marítima"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+      
+    ,{
+      "id": "hebreus",
+      "title": "Hebreus",
+      "questions": [
+        {
+          "question": "Quem eram os hebreus na Antiguidade?",
+          "options": [
+            "Um povo nômade do deserto do Saara",
+            "Um povo da Mesopotâmia ligado aos sumérios",
+            "Um povo semita do Oriente Médio",
+            "Um povo europeu da Península Balcânica"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual região é tradicionalmente associada à origem dos hebreus?",
+          "options": [
+            "Vale do Indo",
+            "Mesopotâmia",
+            "Canaã",
+            "Península Arábica"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quem é considerado o patriarca do povo hebreu?",
+          "options": [
+            "Moisés",
+            "Davi",
+            "Abraão",
+            "Salomão"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Segundo a tradição bíblica, Deus fez uma aliança com:",
+          "options": [
+            "Moisés",
+            "Abraão",
+            "Josué",
+            "Saul"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Para qual região Abraão teria conduzido os hebreus?",
+          "options": [
+            "Egito",
+            "Mesopotâmia",
+            "Canaã",
+            "Fenícia"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual era a principal atividade econômica dos hebreus no início de sua história?",
+          "options": [
+            "Comércio marítimo",
+            "Agricultura irrigada",
+            "Pastoreio",
+            "Mineração"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Por que os hebreus migraram para o Egito segundo a tradição?",
+          "options": [
+            "Por causa de guerras",
+            "Por causa de secas e fome",
+            "Para expandir seu território",
+            "Por interesse comercial"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "No Egito, os hebreus teriam sido submetidos a:",
+          "options": [
+            "Cargos políticos",
+            "Escravidão",
+            "Aliança militar",
+            "Comércio livre"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quem liderou a saída dos hebreus do Egito?",
+          "options": [
+            "Abraão",
+            "Davi",
+            "Salomão",
+            "Moisés"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "O episódio da saída dos hebreus do Egito é conhecido como:",
+          "options": [
+            "Diáspora",
+            "Êxodo",
+            "Cativeiro",
+            "Conquista"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Segundo a tradição, onde Moisés recebeu os Dez Mandamentos?",
+          "options": [
+            "Monte Sinai",
+            "Monte Carmelo",
+            "Monte Nebo",
+            "Monte das Oliveiras"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual é a principal característica da religião hebraica?",
+          "options": [
+            "Politeísmo",
+            "Dualismo",
+            "Monoteísmo",
+            "Panteísmo"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Como é chamado o Deus único dos hebreus?",
+          "options": [
+            "Zeus",
+            "Javé",
+            "Amon",
+            "Marduk"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Os Dez Mandamentos tinham como principal função:",
+          "options": [
+            "Organizar o comércio",
+            "Regular a vida religiosa e moral",
+            "Definir estratégias militares",
+            "Controlar a agricultura"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Após o Êxodo, os hebreus se estabeleceram novamente em:",
+          "options": [
+            "Egito",
+            "Canaã",
+            "Mesopotâmia",
+            "Fenícia"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Como era chamada a fase em que os hebreus eram liderados por juízes?",
+          "options": [
+            "Monarquia",
+            "Império",
+            "Período dos Juízes",
+            "Cativeiro"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quem foi o primeiro rei dos hebreus?",
+          "options": [
+            "Davi",
+            "Salomão",
+            "Saul",
+            "Josué"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual rei hebreu consolidou Jerusalém como capital?",
+          "options": [
+            "Saul",
+            "Davi",
+            "Salomão",
+            "Moisés"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Durante qual reinado foi construído o Primeiro Templo de Jerusalém?",
+          "options": [
+            "Saul",
+            "Davi",
+            "Salomão",
+            "Josué"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Após a morte de Salomão, o reino hebreu:",
+          "options": [
+            "Se transformou em império",
+            "Foi conquistado pelos egípcios",
+            "Dividiu-se em dois reinos",
+            "Entrou em isolamento"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Como se chamavam os dois reinos formados após a divisão?",
+          "options": [
+            "Judá e Samaria",
+            "Israel e Judá",
+            "Canaã e Israel",
+            "Jerusalém e Hebron"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual império destruiu o Reino de Israel?",
+          "options": [
+            "Egípcio",
+            "Assírio",
+            "Persa",
+            "Romano"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual império conquistou o Reino de Judá e destruiu Jerusalém em 586 a.C.?",
+          "options": [
+            "Assírio",
+            "Persa",
+            "Babilônico",
+            "Grego"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "A dispersão dos hebreus pelo mundo ficou conhecida como:",
+          "options": [
+            "Êxodo",
+            "Cativeiro",
+            "Diáspora",
+            "Aliança"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+
+    ,{
+      "id": "persas",
+      "title": "Persas",
+      "questions": [
+        {
+          "question": "Quem eram os persas na Antiguidade?",
+          "options": [
+            "Um povo europeu do Mediterrâneo",
+            "Um povo semita da Mesopotâmia",
+            "Um povo indo-europeu da Ásia",
+            "Um povo africano do vale do Nilo"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Em qual região se originaram os persas?",
+          "options": [
+            "Península Arábica",
+            "Ásia Menor",
+            "Planície do Indo",
+            "Planaltos do atual Irã"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Qual foi o principal fundador do Império Persa?",
+          "options": [
+            "Dario I",
+            "Xerxes",
+            "Ciro, o Grande",
+            "Cambises"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Ciro, o Grande, ficou conhecido principalmente por:",
+          "options": [
+            "Governar com tolerância religiosa",
+            "Impor uma religião única",
+            "Destruir cidades conquistadas",
+            "Eliminar povos dominados"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual foi a capital mais importante do Império Persa?",
+          "options": [
+            "Atenas",
+            "Babilônia",
+            "Persépolis",
+            "Nínive"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "O Império Persa atingiu sua maior extensão territorial durante o governo de:",
+          "options": [
+            "Ciro, o Grande",
+            "Dario I",
+            "Xerxes",
+            "Cambises"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Como o vasto território persa era administrado?",
+          "options": [
+            "Por cidades-estado independentes",
+            "Por governadores chamados sátrapas",
+            "Por assembleias populares",
+            "Por reis locais autônomos"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "As divisões administrativas do Império Persa eram chamadas de:",
+          "options": [
+            "Províncias",
+            "Satrapias",
+            "Cidades-estado",
+            "Reinos aliados"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual era a principal função dos sátrapas?",
+          "options": [
+            "Comandar o exército imperial",
+            "Governar e administrar as regiões",
+            "Controlar a religião",
+            "Criar leis imperiais"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual prática ajudou a integrar economicamente o Império Persa?",
+          "options": [
+            "Uso exclusivo do escambo",
+            "Construção de estradas imperiais",
+            "Isolamento das regiões",
+            "Proibição do comércio"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "A principal estrada persa ligava regiões da Ásia Menor à:",
+          "options": [
+            "Índia",
+            "China",
+            "Mesopotâmia",
+            "Península Arábica"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual era a religião predominante entre os persas?",
+          "options": [
+            "Politeísmo mesopotâmico",
+            "Zoroastrismo",
+            "Judaísmo",
+            "Budismo"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "O fundador do zoroastrismo foi:",
+          "options": [
+            "Moisés",
+            "Zaratustra",
+            "Buda",
+            "Hamurábi"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "O zoroastrismo baseia-se principalmente na ideia de:",
+          "options": [
+            "Politeísmo absoluto",
+            "Ciclo eterno da natureza",
+            "Luta entre o bem e o mal",
+            "Predestinação divina"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quem representava o bem na religião persa?",
+          "options": [
+            "Marduk",
+            "Ahura Mazda",
+            "Javé",
+            "Amon"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual valor era fortemente defendido pela religião persa?",
+          "options": [
+            "Obediência cega",
+            "Mentira como virtude",
+            "Verdade e justiça",
+            "Isolamento social"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Como os persas tratavam as culturas dos povos dominados?",
+          "options": [
+            "Proibiam costumes locais",
+            "Destruíam tradições religiosas",
+            "Respeitavam línguas e religiões",
+            "Impunham a cultura persa"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual foi o principal inimigo dos persas nas Guerras Médicas?",
+          "options": [
+            "Romanos",
+            "Egípcios",
+            "Gregos",
+            "Assírios"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "As Guerras Médicas ocorreram entre persas e:",
+          "options": [
+            "Hebreus",
+            "Gregos",
+            "Fenícios",
+            "Babilônios"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual rei persa comandou invasões contra a Grécia?",
+          "options": [
+            "Ciro",
+            "Dario I",
+            "Xerxes",
+            "Cambises"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "O Império Persa foi conquistado por:",
+          "options": [
+            "Júlio César",
+            "Alexandre, o Grande",
+            "Aníbal",
+            "Augusto"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "A conquista persa por Alexandre ocorreu no século:",
+          "options": [
+            "VIII a.C.",
+            "VI a.C.",
+            "IV a.C.",
+            "II a.C."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Uma das principais características do Império Persa foi:",
+          "options": [
+            "Administração eficiente",
+            "Isolamento político",
+            "Ausência de leis",
+            "Economia apenas agrícola"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Por que o Império Persa é considerado um dos primeiros grandes impérios da história?",
+          "options": [
+            "Por ter sido marítimo",
+            "Por dominar apenas uma região",
+            "Por unir vastos territórios sob uma administração centralizada",
+            "Por abolir a escravidão"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+
+    ,{
+      "id": "fenicios",
+      "title": "Fenícios",
+      "questions": [
+        {
+          "question": "Quem eram os fenícios na Antiguidade?",
+          "options": [
+            "Um povo agrícola do vale do Nilo",
+            "Um povo comerciante do Mediterrâneo",
+            "Um povo guerreiro da Mesopotâmia",
+            "Um povo pastor do deserto"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Em qual região os fenícios se estabeleceram?",
+          "options": [
+            "Vale do Indo",
+            "Mesopotâmia",
+            "Litoral do Mediterrâneo oriental",
+            "Península Itálica"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Por que os fenícios se destacaram no comércio?",
+          "options": [
+            "Por dominarem a agricultura irrigada",
+            "Por controlarem minas de ouro",
+            "Por sua habilidade na navegação marítima",
+            "Por possuírem grandes exércitos"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual produto fenício era muito valorizado na Antiguidade?",
+          "options": [
+            "Trigo",
+            "Seda",
+            "Tecido tingido de púrpura",
+            "Papel"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Como eram chamadas as principais cidades fenícias?",
+          "options": [
+            "Tiro, Sidon e Biblos",
+            "Ur, Uruk e Lagash",
+            "Atenas, Esparta e Tebas",
+            "Roma, Cartago e Milão"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual foi a principal forma de organização política fenícia?",
+          "options": [
+            "Império centralizado",
+            "Cidades-estado independentes",
+            "Monarquia absoluta unificada",
+            "República democrática"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Por que os fenícios fundaram colônias?",
+          "options": [
+            "Para expandir seu território agrícola",
+            "Para difundir sua religião",
+            "Para facilitar o comércio marítimo",
+            "Para dominar politicamente outros povos"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual colônia fenícia tornou-se uma grande potência no Mediterrâneo?",
+          "options": [
+            "Atenas",
+            "Cartago",
+            "Alexandria",
+            "Esparta"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Em qual região atual se localizava Cartago?",
+          "options": [
+            "Grécia",
+            "Itália",
+            "Norte da África",
+            "Península Ibérica"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual foi a principal contribuição cultural dos fenícios?",
+          "options": [
+            "A escrita cuneiforme",
+            "O alfabeto fonético",
+            "O papiro",
+            "A imprensa"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Por que o alfabeto fenício foi importante?",
+          "options": [
+            "Porque usava símbolos religiosos",
+            "Porque facilitou a escrita e a comunicação",
+            "Porque era usado apenas por sacerdotes",
+            "Porque era baseado em desenhos complexos"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quantas letras tinha aproximadamente o alfabeto fenício?",
+          "options": [
+            "10",
+            "15",
+            "22",
+            "40"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qual povo adaptou o alfabeto fenício, dando origem ao alfabeto ocidental?",
+          "options": [
+            "Egípcios",
+            "Persas",
+            "Gregos",
+            "Romanos"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "A religião fenícia era:",
+          "options": [
+            "Monoteísta",
+            "Ateísta",
+            "Politeísta",
+            "Dualista"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Os fenícios costumavam associar seus deuses a:",
+          "options": [
+            "Fenômenos naturais e atividades humanas",
+            "Leis escritas",
+            "Ideias filosóficas abstratas",
+            "Reis estrangeiros"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual prática econômica era comum entre os fenícios?",
+          "options": [
+            "Agricultura de subsistência",
+            "Comércio e troca de mercadorias",
+            "Caça e coleta",
+            "Isolamento econômico"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Por que a navegação era essencial para os fenícios?",
+          "options": [
+            "Porque evitava guerras",
+            "Porque ligava cidades costeiras e colônias",
+            "Porque substituía a agricultura",
+            "Porque impedia invasões"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Que tipo de embarcação os fenícios aperfeiçoaram?",
+          "options": [
+            "Navios fluviais",
+            "Navios de guerra",
+            "Navios comerciais marítimos",
+            "Balsas de madeira"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Como os fenícios se relacionavam com outros povos?",
+          "options": [
+            "Principalmente por meio do comércio",
+            "Através de conquistas militares",
+            "Pelo isolamento cultural",
+            "Por alianças religiosas"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual mar foi central para a expansão fenícia?",
+          "options": [
+            "Mar Vermelho",
+            "Mar Negro",
+            "Mar Mediterrâneo",
+            "Mar Cáspio"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Por que os fenícios não formaram um grande império territorial?",
+          "options": [
+            "Por falta de exército",
+            "Por priorizarem o comércio marítimo",
+            "Por rejeitarem o poder político",
+            "Por não conhecerem agricultura"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual povo conquistou as cidades fenícias no Oriente?",
+          "options": [
+            "Egípcios",
+            "Assírios",
+            "Persas",
+            "Todos os anteriores"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "A importância histórica dos fenícios está ligada principalmente à:",
+          "options": [
+            "Conquista territorial",
+            "Criação de impérios militares",
+            "Difusão do comércio e do alfabeto",
+            "Produção agrícola"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Por que os fenícios são considerados grandes navegadores?",
+          "options": [
+            "Porque exploraram rotas marítimas e fundaram colônias",
+            "Porque dominaram os mares com exércitos",
+            "Porque criaram mapas científicos",
+            "Porque evitaram o contato com outros povos"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+
+    ,{
+      "id": "maias",
+      "title": "Maias",
+      "questions": [
+        {
+          "question": "Quem foram os maias na Antiguidade?",
+          "options": [
+            "Um povo do Norte da África",
+            "Um povo mesoamericano",
+            "Um povo europeu",
+            "Um povo da Ásia"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Em qual região geográfica os maias se estabeleceram?",
+          "options": [
+            "Península Ibérica",
+            "Mesoamérica, principalmente México, Guatemala e Belize",
+            "Vale do Nilo",
+            "Mesopotâmia"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual característica marcou a civilização maia?",
+          "options": [
+            "Agricultura de subsistência e comércio local",
+            "Sociedades nômades sem organização",
+            "Ciência, matemática, astronomia e escrita",
+            "Isolamento total e ausência de cidades"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Como era organizada politicamente a sociedade maia?",
+          "options": [
+            "Em um grande império centralizado",
+            "Em cidades-estado independentes",
+            "Em aldeias nômades sem governo",
+            "Como uma república democrática"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quais eram as principais cidades maias?",
+          "options": [
+            "Tikal, Palenque e Chichén Itzá",
+            "Roma, Atenas e Esparta",
+            "Ur, Babilônia e Nínive",
+            "Teotihuacán, Tenochtitlán e Cusco"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a base da economia maia?",
+          "options": [
+            "Agricultura, comércio e tributos",
+            "Mineração e pecuária",
+            "Pesca oceânica",
+            "Caça e coleta nômade"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual cultura mesoamericana teve grande influência sobre os maias?",
+          "options": [
+            "Olmeca",
+            "Asteca",
+            "Inca",
+            "Zapoteca"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era o principal cultivo agrícola dos maias?",
+          "options": [
+            "Trigo",
+            "Milho (maíz)",
+            "Arroz",
+            "Cevada"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Como os maias registravam informações?",
+          "options": [
+            "Com escrita cuneiforme em argila",
+            "Com hieróglifos em estelas e códices",
+            "Com pictogramas em papiro",
+            "Com alfabeto fenício"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual era o principal material usado para os registros maias?",
+          "options": [
+            "Papyrus",
+            "Pedra e madeira",
+            "Placas de argila",
+            "Couro"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Os maias eram conhecidos pelo estudo da astronomia porque:",
+          "options": [
+            "Acreditavam que o céu controlava a agricultura",
+            "Desejavam construir telescópios",
+            "Seguiam tradições gregas",
+            "Era necessário para o comércio"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a função dos templos e pirâmides maias?",
+          "options": [
+            "Moradia dos governantes",
+            "Centros religiosos e cerimoniais",
+            "Depósitos de alimentos",
+            "Mercados"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Como era a religião maia?",
+          "options": [
+            "Monoteísta",
+            "Politeísta",
+            "Ateísta",
+            "Cristã"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Os deuses maias estavam ligados a:",
+          "options": [
+            "Fenômenos naturais e ciclos agrícolas",
+            "Política e guerra apenas",
+            "Comércio marítimo",
+            "Escrita e matemática"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era o papel do sacerdote na sociedade maia?",
+          "options": [
+            "Governar militarmente",
+            "Organizar cerimônias e observações astronômicas",
+            "Produzir alimentos",
+            "Comandar exércitos"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "O calendário maia ficou famoso por:",
+          "options": [
+            "Ser igual ao calendário romano",
+            "Ter precisão astronômica e ciclos complexos",
+            "Ter apenas 200 dias",
+            "Ser baseado no calendário egípcio"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Os maias desenvolveram avanços em qual área da matemática?",
+          "options": [
+            "Álgebra e trigonometria",
+            "Sistema de numeração vigesimal e uso do zero",
+            "Geometria cartesiana",
+            "Cálculo infinitesimal"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Como os maias realizavam suas construções?",
+          "options": [
+            "Com madeira e barro apenas",
+            "Com pedras cortadas e técnicas de alvenaria",
+            "Com metal fundido",
+            "Com tijolos de argila cozida como os romanos"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual foi um dos motivos do declínio das cidades maias?",
+          "options": [
+            "Conquista romana",
+            "Secas prolongadas, guerras e instabilidade interna",
+            "Invasão dos egípcios",
+            "Falta de conhecimento agrícola"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Como os maias se relacionavam comercialmente?",
+          "options": [
+            "Principalmente por rotas terrestres e fluviais",
+            "Só dentro de suas cidades",
+            "Via oceano Atlântico",
+            "Não realizavam comércio"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A escrita maia servia principalmente para:",
+          "options": [
+            "Registro de histórias, genealogias, religiões e comércio",
+            "Somente textos religiosos",
+            "Somente para comércio",
+            "Somente para leis civis"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual legado cultural maia é estudado até hoje?",
+          "options": [
+            "Escrita, calendário, arquitetura e conhecimento astronômico",
+            "Apenas técnicas agrícolas",
+            "Somente arte militar",
+            "Nenhum legado significativo"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O território maia ficava aproximadamente nos atuais países:",
+          "options": [
+            "México, Guatemala, Belize, Honduras e El Salvador",
+            "Peru, Bolívia e Chile",
+            "Egito e Líbia",
+            "Iraque e Irã"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+
+    ,{
+      "id": "egito_antigo",
+      "title": "Egito antigo",
+      "questions": [
+        {
+          "question": "Onde se localizava o Egito Antigo?",
+          "options": [
+            "No vale do Nilo, no Norte da África",
+            "Na Mesopotâmia",
+            "Na Península Ibérica",
+            "Na Ásia Menor"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual rio foi fundamental para o desenvolvimento do Egito Antigo?",
+          "options": [
+            "Tigre",
+            "Eufrates",
+            "Nilo",
+            "Danúbio"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Por que o Nilo era importante para os egípcios?",
+          "options": [
+            "Garantia solo fértil, transporte e irrigação",
+            "Servia apenas para pesca",
+            "Era usado só para comércio internacional",
+            "Não tinha importância prática"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Como era organizada politicamente a sociedade egípcia?",
+          "options": [
+            "Cidades-estado independentes",
+            "Reino unificado sob o faraó",
+            "República democrática",
+            "Sem governo central"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quem era o faraó?",
+          "options": [
+            "Um líder religioso e político",
+            "Um escriba",
+            "Um agricultor chefe",
+            "Um comerciante importante"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a base econômica do Egito Antigo?",
+          "options": [
+            "Agricultura, pesca e comércio",
+            "Indústria pesada",
+            "Pecuária nômade",
+            "Mineração marítima"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Como os egípcios registravam informações?",
+          "options": [
+            "Com hieróglifos",
+            "Com escrita cuneiforme",
+            "Com alfabeto fenício",
+            "Com caracteres chineses"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Em que materiais os egípcios escreviam geralmente?",
+          "options": [
+            "Papirus, pedra e madeira",
+            "Argila e bronze",
+            "Papel e tinta",
+            "Couro e seda"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a religião egípcia?",
+          "options": [
+            "Monoteísta",
+            "Politeísta",
+            "Cristã",
+            "Budista"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Os deuses egípcios estavam ligados principalmente a:",
+          "options": [
+            "Fenômenos naturais e vida após a morte",
+            "Guerra e comércio",
+            "Matemática e escrita",
+            "Governo e impostos"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O que eram as pirâmides egípcias?",
+          "options": [
+            "Templos de comércio",
+            "Túmulos para faraós e monumentos religiosos",
+            "Mercados centrais",
+            "Escolas de escrita"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "O que era a mumificação?",
+          "options": [
+            "Um método de agricultura",
+            "Um processo de preservação de corpos",
+            "Uma cerimônia de casamento",
+            "Uma técnica de construção"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Por que a mumificação era importante para os egípcios?",
+          "options": [
+            "Para proteger alimentos",
+            "Para garantir a vida após a morte",
+            "Para preservar objetos valiosos",
+            "Para armazenar água"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quem eram os escribas egípcios?",
+          "options": [
+            "Sacerdotes e líderes",
+            "Especialistas em escrita e registros",
+            "Agricultores experientes",
+            "Comerciantes estrangeiros"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual era a importância do Rio Nilo para transporte?",
+          "options": [
+            "Permitindo navegação e comércio entre cidades",
+            "Servindo apenas como fronteira natural",
+            "Só para lazer e festas",
+            "Não tinha utilidade prática"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual faraó é famoso pela construção da Grande Pirâmide de Gizé?",
+          "options": [
+            "Tutancâmon",
+            "Quéops",
+            "Ramsés II",
+            "Amenófis III"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Ramsés II é conhecido principalmente por:",
+          "options": [
+            "Leis escritas",
+            "Construções monumentais e batalhas",
+            "Criação de alfabetos",
+            "Invenção da roda"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "O Egito Antigo desenvolveu avanços em:",
+          "options": [
+            "Arquitetura, matemática, medicina e astronomia",
+            "Apenas agricultura",
+            "Somente comércio marítimo",
+            "Nada relevante"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual período marcou a construção das maiores pirâmides?",
+          "options": [
+            "Antigo Império",
+            "Império Novo",
+            "Período Médio",
+            "Baixo Império"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A escrita hieroglífica servia para:",
+          "options": [
+            "Registro de leis, comércio e religião",
+            "Somente para matemática",
+            "Exclusivamente para astronomia",
+            "Somente para comércio"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Como os egípcios entendiam a vida após a morte?",
+          "options": [
+            "Não acreditavam nela",
+            "Como uma continuação que precisava de rituais e túmulos",
+            "Somente para faraós",
+            "Era igual à vida terrena sem rituais"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual é o legado cultural do Egito Antigo até hoje?",
+          "options": [
+            "Escrita, arquitetura monumental e conhecimento científico",
+            "Somente comércio marítimo",
+            "Apenas política centralizada",
+            "Nada significativo"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O território do Egito Antigo corresponde atualmente a qual país?",
+          "options": [
+            "Egito",
+            "Líbia",
+            "Sudão",
+            "Tunísia"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+
+    ,{
+      "id": "cuxe",
+      "title": "Reino de Cuxe",
+      "questions": [
+        {
+          "question": "Onde se localizava o Reino de Cuxe?",
+          "options": [
+            "No vale do Nilo, ao sul do Egito",
+            "Na Mesopotâmia",
+            "Na Península Ibérica",
+            "No deserto do Saara central"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a relação entre Cuxe e o Egito?",
+          "options": [
+            "Eles eram inimigos constantes sem contato",
+            "Cuxe foi governado pelo Egito e depois conquistou parte dele",
+            "Não tinham conhecimento um do outro",
+            "Eram unidos por um império comum"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual era a base econômica do Reino de Cuxe?",
+          "options": [
+            "Agricultura, comércio e mineração",
+            "Pesca e caça apenas",
+            "Indústria marítima",
+            "Comércio exclusivo com a Índia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Os cuxitas eram conhecidos por dominar:",
+          "options": [
+            "A escrita cuneiforme",
+            "O comércio e mineração de ouro",
+            "O cultivo de arroz",
+            "A navegação oceânica"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual cidade foi a capital mais famosa do Reino de Cuxe?",
+          "options": [
+            "Meroé",
+            "Tikal",
+            "Teotihuacán",
+            "Axum"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O Reino de Cuxe ficou conhecido por sua:",
+          "options": [
+            "Arquitetura monumental e pirâmides",
+            "Agricultura de subsistência apenas",
+            "Frota naval poderosa",
+            "Escrita hieroglífica exclusiva"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Como era a religião em Cuxe?",
+          "options": [
+            "Politeísta, influenciada pelo Egito",
+            "Monoteísta",
+            "Cristã desde o início",
+            "Budista"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual material os cuxitas exploravam em grande quantidade?",
+          "options": [
+            "Ouro e ferro",
+            "Prata e cobre",
+            "Cobre apenas",
+            "Sal e estanho"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a língua oficial usada pelos cuxitas?",
+          "options": [
+            "Grego antigo",
+            "Língua núbia",
+            "Latim",
+            "Egípcio hieroglífico"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual influência o Egito exerceu sobre Cuxe?",
+          "options": [
+            "Arquitetura, religião e escrita",
+            "Somente comércio",
+            "Apenas guerras e conflitos",
+            "Nenhuma influência"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Durante certo período, os reis cuxitas governaram:",
+          "options": [
+            "O Egito como faraós",
+            "A Pérsia",
+            "A Mesopotâmia",
+            "A Grécia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Como eram as pirâmides de Cuxe comparadas às do Egito?",
+          "options": [
+            "Menores e mais estreitas",
+            "Maiores e mais largas",
+            "Igual tamanho e formato",
+            "Não existiam pirâmides"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a principal função das pirâmides cuxitas?",
+          "options": [
+            "Templos e túmulos reais",
+            "Mercados",
+            "Escolas",
+            "Armazéns de grãos"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O reino de Cuxe se destacou no uso do ferro para:",
+          "options": [
+            "Fabricação de armas e ferramentas",
+            "Construção de pirâmides",
+            "Navegação marítima",
+            "Cerâmica artística"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a relação de Cuxe com povos africanos vizinhos?",
+          "options": [
+            "Comércio, alianças e conflitos ocasionais",
+            "Isolamento total",
+            "Unificação política completa",
+            "Não existia contato"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A capital Meroé era famosa por:",
+          "options": [
+            "Ser um centro de comércio e cultura",
+            "Ser exclusivamente militar",
+            "Produzir apenas alimentos",
+            "Não ter importância histórica"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Os cuxitas herdaram aspectos da cultura egípcia como:",
+          "options": [
+            "Religião, escrita hieroglífica e arquitetura",
+            "Filosofia grega",
+            "Alfabetização universal",
+            "Calendário maia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O que marcou a economia de Meroé?",
+          "options": [
+            "Ferro, ouro, agricultura e comércio de longa distância",
+            "Somente pesca",
+            "Exclusivamente pastoreio",
+            "Só mineração de sal"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O declínio do Reino de Cuxe foi causado por:",
+          "options": [
+            "Invasões, decadência econômica e pressões externas",
+            "Conquista romana imediata",
+            "Secas sem influência política",
+            "Desinteresse cultural"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a importância do Rio Nilo para Cuxe?",
+          "options": [
+            "Agricultura, transporte e comércio",
+            "Não tinha importância",
+            "Servia só para ritual religioso",
+            "Somente para defesa"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A escrita cuxita era baseada em:",
+          "options": [
+            "Hieróglifos egípcios adaptados",
+            "Alfabeto fenício",
+            "Escrita cuneiforme",
+            "Língua latina"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual legado cultural de Cuxe é estudado até hoje?",
+          "options": [
+            "Pirâmides, metalurgia, escrita e comércio",
+            "Somente agricultura",
+            "Exclusivamente guerra",
+            "Nada significativo"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O território do Reino de Cuxe corresponde atualmente a qual país principalmente?",
+          "options": [
+            "Sudão",
+            "Egito",
+            "Líbia",
+            "Chade"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+
+    ,{
+      "id": "axum",
+      "title": "Axum",
+      "questions": [
+        {
+          "question": "Onde se localizava o Reino de Axum?",
+          "options": [
+            "Na atual Etiópia e Eritreia, no leste da África",
+            "No Norte da África, próximo ao Egito",
+            "Na Península Ibérica",
+            "No sul da Mesopotâmia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum se destacou principalmente por:",
+          "options": [
+            "Agricultura intensiva de arroz",
+            "Comércio e influência política no Mar Vermelho",
+            "Domínio do Mediterrâneo",
+            "Mineração de prata"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qual era a base econômica de Axum?",
+          "options": [
+            "Agricultura, comércio e mineração de ouro e ferro",
+            "Pecuária nômade exclusivamente",
+            "Comércio apenas com a Índia",
+            "Pesca marítima"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum era conhecido por suas relações comerciais com:",
+          "options": [
+            "Império Romano, Índia e Península Arábica",
+            "Somente Egito",
+            "Mesopotâmia e China",
+            "Europa Ocidental"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a religião oficial de Axum após o século IV?",
+          "options": [
+            "Cristianismo",
+            "Islamismo",
+            "Politeísmo africano",
+            "Budismo"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Antes do cristianismo, os axumitas praticavam:",
+          "options": [
+            "Politeísmo local com deuses e rituais",
+            "Monoteísmo judeu",
+            "Religião cristã",
+            "Islamismo"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a capital do Reino de Axum?",
+          "options": [
+            "Axum",
+            "Meroé",
+            "Cartago",
+            "Tikal"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum ficou famoso por suas construções chamadas:",
+          "options": [
+            "Obeliscos e estelas de pedra",
+            "Pirâmides",
+            "Templos de barro",
+            "Castelos de madeira"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Os obeliscos de Axum eram usados para:",
+          "options": [
+            "Marcar túmulos de reis e nobres",
+            "Defender cidades",
+            "Comércio",
+            "Agricultura"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum controlava rotas comerciais importantes no:",
+          "options": [
+            "Mar Vermelho e comércio do Mar Negro",
+            "Mar Mediterrâneo",
+            "Mar Vermelho e região do Iêmen",
+            "Atlântico Sul"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "O Reino de Axum utilizava moeda própria a partir de qual metal?",
+          "options": [
+            "Ouro e prata",
+            "Cobre apenas",
+            "Ferro",
+            "Estanho"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum foi um dos primeiros reinos africanos a:",
+          "options": [
+            "Adotar o cristianismo como religião oficial",
+            "Construir pirâmides",
+            "Conquistar o Egito",
+            "Escrever em hieróglifos"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual língua era utilizada em Axum para inscrições oficiais?",
+          "options": [
+            "Ge'ez",
+            "Latim",
+            "Grego",
+            "Sânscrito"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum manteve contato cultural com qual civilização mediterrânea?",
+          "options": [
+            "Roma",
+            "Grécia",
+            "Cartago",
+            "Mesopotâmia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O comércio de Axum incluía produtos como:",
+          "options": [
+            "Ouro, marfim, incenso e escravos",
+            "Arroz e trigo",
+            "Carvão e petróleo",
+            "Sal e pedras preciosas apenas"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum se destacou também em:",
+          "options": [
+            "Arquitetura, metalurgia e escrita",
+            "Somente agricultura",
+            "Navegação oceânica",
+            "Política democrática"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O cristianismo em Axum foi introduzido principalmente por:",
+          "options": [
+            "Frumentius, missionário sírio",
+            "Missionários romanos",
+            "Escravos egípcios",
+            "Comerciantes fenícios"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum entrou em declínio por:",
+          "options": [
+            "Mudanças nas rotas comerciais e pressões externas",
+            "Invasões romanas",
+            "Secas prolongadas",
+            "Erupções vulcânicas"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O Reino de Axum é considerado importante porque:",
+          "options": [
+            "Foi um dos grandes reinos africanos do comércio e cultura antiga",
+            "Só conquistou territórios locais",
+            "Não deixou registros históricos",
+            "Somente existiu por pouco tempo"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum mantinha relações comerciais com a Índia por meio de:",
+          "options": [
+            "Rotas marítimas pelo Mar Vermelho",
+            "Rotas terrestres pelo Saara",
+            "Viagens pelo Mediterrâneo Ocidental",
+            "Viagens pelo Atlântico Sul"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O território do Reino de Axum corresponde atualmente a:",
+          "options": [
+            "Etiópia e Eritreia",
+            "Sudão",
+            "Egito",
+            "Somália"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Axum é lembrado principalmente por:",
+          "options": [
+            "Comércio, cristianismo, escrita e arquitetura monumental",
+            "Somente agricultura",
+            "Exploração marítima do Atlântico",
+            "Nenhum legado relevante"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+
+    ,{
+      "id": "cartago",
+      "title": "Cartago",
+      "questions": [
+        {
+          "question": "Onde se localizava Cartago na Antiguidade?",
+          "options": [
+            "Na atual Tunísia, no Norte da África",
+            "No Egito",
+            "Na Península Ibérica",
+            "No sul da Mesopotâmia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quem fundou Cartago?",
+          "options": [
+            "Fenícios",
+            "Gregos",
+            "Egípcios",
+            "Romanos"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cartago era conhecida principalmente por:",
+          "options": [
+            "Comércio marítimo e naval",
+            "Agricultura de subsistência",
+            "Construção de pirâmides",
+            "Mineração de prata"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual foi a principal cidade de Cartago?",
+          "options": [
+            "Cartago",
+            "Tiro",
+            "Sidon",
+            "Meroé"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O território de Cartago abrangia principalmente:",
+          "options": [
+            "Costa do Mediterrâneo Norte da África",
+            "Interior do Egito",
+            "Região da Mesopotâmia",
+            "Sul da Península Ibérica"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A economia de Cartago se baseava em:",
+          "options": [
+            "Comércio, agricultura e navegação",
+            "Apenas mineração",
+            "Pastorícia nômade",
+            "Indústria pesada"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cartago ficou famosa pelo uso de qual arma militar?",
+          "options": [
+            "Elefantes de guerra",
+            "Arcos longos",
+            "Catapultas gregas",
+            "Armaduras romanas"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual general cartaginês atravessou os Alpes para atacar Roma?",
+          "options": [
+            "Aníbal",
+            "Hannón",
+            "Públio Cornélio",
+            "Escipião"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "As guerras entre Cartago e Roma são conhecidas como:",
+          "options": [
+            "Guerras Púnicas",
+            "Guerras Médicas",
+            "Guerras Civis Romanas",
+            "Guerras de Macedônia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quantas Guerras Púnicas ocorreram entre Roma e Cartago?",
+          "options": [
+            "Três",
+            "Duas",
+            "Quatro",
+            "Cinco"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O que marcou o fim de Cartago?",
+          "options": [
+            "Destruição pela Roma no final da terceira Guerra Púnica",
+            "Conquista pelos egípcios",
+            "Invasão dos gregos",
+            "Crise econômica sem guerras"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cartago era uma cidade:",
+          "options": [
+            "Portuária e comercial",
+            "Agrícola isolada",
+            "Montanhosa e fortificada",
+            "Sem importância estratégica"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cartago foi um importante centro de:",
+          "options": [
+            "Comércio no Mediterrâneo Ocidental",
+            "Produção de pirâmides",
+            "Filosofia grega",
+            "Mineração de prata na Mesopotâmia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A sociedade cartaginesa tinha origem principalmente:",
+          "options": [
+            "Fenícia",
+            "Egípcia",
+            "Grega",
+            "Romana"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a religião predominante em Cartago?",
+          "options": [
+            "Politeísta, com sacrifícios a Baal e Tanit",
+            "Cristã",
+            "Islamismo",
+            "Monoteísmo judaico"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cartago controlava o comércio de:",
+          "options": [
+            "Marfim, ouro, escravos e produtos agrícolas",
+            "Apenas cereais",
+            "Metais preciosos da Europa",
+            "Especiarias do Oriente"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quem derrotou Aníbal na Segunda Guerra Púnica?",
+          "options": [
+            "Escipião Africano",
+            "Hannón",
+            "Públio Cornélio",
+            "Alexandre"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cartago fundou colônias como:",
+          "options": [
+            "Sicília, Sardenha e Ibiza",
+            "Roma, Atenas e Esparta",
+            "Tikal e Teotihuacán",
+            "Alexandria e Memphis"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O exército cartaginês era conhecido por:",
+          "options": [
+            "Inovação militar e uso de mercenários e elefantes",
+            "Somente arqueiros locais",
+            "Tropas nômades da Mesopotâmia",
+            "Guarda pessoal do faraó"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cartago se destacou no Mediterrâneo Ocidental por:",
+          "options": [
+            "Comércio, marinha e poder militar",
+            "Filosofia e arte grega",
+            "Produção agrícola",
+            "Construção de pirâmides"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O legado de Cartago influenciou:",
+          "options": [
+            "Estratégias militares, comércio e cultura mediterrânea",
+            "Apenas religião cristã",
+            "Somente agricultura romana",
+            "Nada relevante"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a relação de Cartago com Roma antes das guerras?",
+          "options": [
+            "Concorrência comercial e expansão territorial",
+            "Aliança religiosa",
+            "Independência total sem contato",
+            "Domínio romano direto"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cartago desapareceu historicamente como potência em:",
+          "options": [
+            "146 a.C., após a destruição final romana",
+            "200 a.C., antes das Guerras Púnicas",
+            "50 a.C., com Alexandre",
+            "300 d.C., com o Império Bizantino"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+
+    ,{
+      "id": "punt",
+      "title": "Terra de Punt",
+      "questions": [
+        {
+          "question": "O que era a Terra de Punt na Antiguidade?",
+          "options": [
+            "Uma região comercial próxima ao Mar Vermelho",
+            "Uma cidade do Egito",
+            "Uma colônia grega",
+            "Um império na Mesopotâmia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual era a relação da Terra de Punt com o Egito?",
+          "options": [
+            "Comércio de produtos valiosos como incenso, mirra e ouro",
+            "Guerra constante sem comércio",
+            "Colônia egípcia independente",
+            "Sem contato algum"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Onde se acredita que a Terra de Punt estava localizada?",
+          "options": [
+            "Região do atual Somália, Eritreia e Sudão",
+            "No deserto do Saara",
+            "Na Mesopotâmia",
+            "Na Península Ibérica"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A Terra de Punt era conhecida por fornecer ao Egito:",
+          "options": [
+            "Incenso, mirra, ébano e ouro",
+            "Trigo e cevada",
+            "Prata e ferro",
+            "Cavalos e elefantes"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual faraó egípcio realizou expedições à Terra de Punt?",
+          "options": [
+            "Hatshepsut",
+            "Ramsés II",
+            "Tutancâmon",
+            "Quéops"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "As expedições à Terra de Punt tinham como objetivo principal:",
+          "options": [
+            "Obter produtos exóticos para templos e comércio",
+            "Conquistar territórios",
+            "Estabelecer colônias permanentes",
+            "Exploração científica"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Como os egípcios representavam a Terra de Punt em seus registros?",
+          "options": [
+            "Em murais e relevos mostrando pessoas, navios e produtos",
+            "Em mapas detalhados",
+            "Com hieróglifos apenas",
+            "Através de moedas"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O comércio com Punt reforçava principalmente:",
+          "options": [
+            "O prestígio e riqueza do Egito",
+            "O poder militar egípcio",
+            "A escrita hieroglífica",
+            "A agricultura local"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A Terra de Punt é conhecida como:",
+          "options": [
+            "País de Deus, região exótica e rica em produtos",
+            "Uma colônia militar egípcia",
+            "Uma cidade portuária no Mediterrâneo",
+            "Uma ilha na Mesopotâmia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual mar ligava o Egito à Terra de Punt?",
+          "options": [
+            "Mar Vermelho",
+            "Mar Mediterrâneo",
+            "Mar Negro",
+            "Mar Cáspio"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Os produtos de Punt eram usados principalmente para:",
+          "options": [
+            "Ofertas religiosas e luxo da corte",
+            "Alimentação básica",
+            "Construção de pirâmides",
+            "Pagamento de impostos"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O que tornava Punt importante para o Egito?",
+          "options": [
+            "Riqueza de produtos exóticos e comércio estratégico",
+            "Força militar",
+            "Agricultura fértil",
+            "Produção têxtil"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Os registros mais detalhados de Punt foram feitos por:",
+          "options": [
+            "Hatshepsut, em seu templo mortuário",
+            "Ramsés II em monumentos",
+            "Tutancâmon em papiros",
+            "Quéops em pirâmides"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O comércio com Punt ocorria principalmente por:",
+          "options": [
+            "Rotas marítimas pelo Mar Vermelho",
+            "Rotas terrestres pelo deserto",
+            "Rios internos africanos",
+            "Comércio aéreo (mitológico)"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que produtos valiosos eram obtidos de Punt?",
+          "options": [
+            "Incenso, mirra, ébano e ouro",
+            "Trigo e cevada",
+            "Cobre e estanho",
+            "Prata e mármore"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A Terra de Punt era importante para o Egito porque:",
+          "options": [
+            "Garantia acesso a produtos que não existiam no Egito",
+            "Permitida expansão territorial",
+            "Era fonte de escravos exclusivamente",
+            "Fornecia só alimentos básicos"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qual faraó é lembrado por uma expedição famosa a Punt?",
+          "options": [
+            "Hatshepsut",
+            "Ramsés II",
+            "Tutancâmon",
+            "Amenófis III"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "As expedições a Punt ajudaram o Egito a:",
+          "options": [
+            "Aumentar riqueza, prestígio e comércio",
+            "Criar alianças militares permanentes",
+            "Dominar territórios africanos",
+            "Produzir novos alimentos"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Como os produtos de Punt chegavam ao Egito?",
+          "options": [
+            "Por navios e caravanas",
+            "Somente por rotas terrestres",
+            "Por transporte aéreo",
+            "Não chegavam ao Egito"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O legado da Terra de Punt é estudado principalmente por:",
+          "options": [
+            "História, comércio antigo e relações internacionais do Egito",
+            "Agronomia e medicina",
+            "Filosofia grega",
+            "Arquitetura romana"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Punt era conhecido como país de:",
+          "options": [
+            "Deuses e riquezas exóticas",
+            "Soldados e guerreiros",
+            "Escravos",
+            "Grãos e cereais"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "O comércio com Punt contribuiu para:",
+          "options": [
+            "Fortalecer o Egito política e economicamente",
+            "Construir pirâmides apenas",
+            "Expandir o território sem comércio",
+            "Aumentar a população apenas"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A localização exata de Punt ainda é:",
+          "options": [
+            "Debatida entre estudiosos, possivelmente na região do atual Chifre da África",
+            "Conhecida exatamente como Tunísia",
+            "Na Mesopotâmia",
+            "No sul da Península Ibérica"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+    
+  ,{
+    "id": "grecia",
+    "title": "Grécia Antiga",
+    "questions": [
+      {
+        "question": "Onde se localizava a Grécia Antiga?",
+        "options": [
+          "Na península balcânica, ao sul da Europa",
+          "No Norte da África",
+          "Na Mesopotâmia",
+          "Na Península Ibérica"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A Grécia Antiga era formada por:",
+        "options": [
+          "Cidades-estado independentes chamadas pólis",
+          "Um único império unificado",
+          "Colônias egípcias",
+          "Três grandes reinos"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Qual era a capital cultural e política de Atenas?",
+        "options": [
+          "Atenas",
+          "Esparta",
+          "Corinto",
+          "Micenas"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Esparta era famosa por:",
+        "options": [
+          "Sociedade militarizada e forte exército",
+          "Comércio e filosofia",
+          "Artes e teatro",
+          "Mineração e agricultura"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A democracia direta surgiu em:",
+        "options": [
+          "Atenas",
+          "Esparta",
+          "Corinto",
+          "Olímpia"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Qual era a religião grega antiga?",
+        "options": [
+          "Politeísta, com deuses como Zeus e Atena",
+          "Monoteísta",
+          "Cristã",
+          "Budista"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O que era o teatro grego antigo?",
+        "options": [
+          "Espaço para apresentações de tragédias e comédias",
+          "Lugar de esportes",
+          "Mercado central",
+          "Templo religioso"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Os Jogos Olímpicos antigos eram realizados em:",
+        "options": [
+          "Olímpia",
+          "Atenas",
+          "Esparta",
+          "Corinto"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Os filósofos gregos buscavam:",
+        "options": [
+          "Explicações racionais sobre o mundo e a vida",
+          "Só poder político",
+          "Exploração militar",
+          "Comércio e riqueza"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Entre os filósofos famosos estavam:",
+        "options": [
+          "Sócrates, Platão e Aristóteles",
+          "Ramsés, Quéops e Tutancâmon",
+          "César, Augusto e Marco Antônio",
+          "Hannón, Aníbal e Públio"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A escrita grega antiga utilizava:",
+        "options": [
+          "Alfabeto grego",
+          "Hieróglifos",
+          "Cuneiforme",
+          "Alfabeto latino"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A mitologia grega servia para:",
+        "options": [
+          "Explicar fenômenos naturais e valores culturais",
+          "Escrever leis",
+          "Comércio internacional",
+          "Agricultura"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Os gregos antigos eram conhecidos por:",
+        "options": [
+          "Artes, filosofia, política e ciência",
+          "Só agricultura",
+          "Mineração de ouro",
+          "Construção de pirâmides"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O período clássico da Grécia é marcado por:",
+        "options": [
+          "Avanços em arte, política e filosofia",
+          "Conquista do Egito",
+          "Invenção da escrita cuneiforme",
+          "Exploração da América"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A Guerra do Peloponeso foi entre:",
+        "options": [
+          "Atenas e Esparta",
+          "Grécia e Roma",
+          "Egito e Núbia",
+          "Pérsia e Babilônia"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O período helenístico começou após:",
+        "options": [
+          "As conquistas de Alexandre, o Grande",
+          "A fundação de Roma",
+          "O fim da Guerra do Peloponeso",
+          "A primeira olimpíada"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Alexandre, o Grande, expandiu o território grego até:",
+        "options": [
+          "Egito, Pérsia e Índia",
+          "Roma e Cartago",
+          "Mesopotâmia apenas",
+          "Índia e China"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A filosofia grega influenciou:",
+        "options": [
+          "Ciência, política e cultura ocidental",
+          "Só agricultura",
+          "Só artes marciais",
+          "Nada além da religião"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A democracia ateniense era caracterizada por:",
+        "options": [
+          "Participação direta dos cidadãos",
+          "Monarquia absoluta",
+          "Ditadura militar",
+          "Oligarquia de mercadores"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Os gregos antigos construíam templos para:",
+        "options": [
+          "Homenagear seus deuses",
+          "Comércio e tribunais",
+          "Armazéns de alimentos",
+          "Escolas públicas"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A Grécia Antiga deixou legado em:",
+        "options": [
+          "Filosofia, política, artes e ciências",
+          "Só agricultura",
+          "Construção de pirâmides",
+          "Comércio marítimo apenas"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "As cidades gregas eram geralmente:",
+        "options": [
+          "Independentes e autônomas",
+          "Subordinadas a um único rei",
+          "Colônias de Cartago",
+          "Cidades-estados egípcias"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A economia da Grécia antiga era baseada principalmente em:",
+        "options": [
+          "Agricultura, comércio e artesanato",
+          "Mineração de ouro",
+          "Indústria pesada",
+          "Produção de pirâmides"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+
+  ,{
+    "id": "roma_antiga",
+    "title": "Roma Antiga",
+    "questions": [
+      {
+        "question": "Onde se localizava Roma Antiga?",
+        "options": [
+          "Na Península Itálica, no sul da Europa",
+          "No Norte da África",
+          "Na Mesopotâmia",
+          "Na Península Ibérica"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Roma Antiga começou como:",
+        "options": [
+          "Uma cidade-estado",
+          "Um império unificado",
+          "Uma colônia grega",
+          "Um reino egípcio"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Qual era a forma de governo da Roma Republicana?",
+        "options": [
+          "República com senado e magistrados",
+          "Monarquia absoluta",
+          "Ditadura militar",
+          "Democracia direta"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O principal órgão político da República Romana era:",
+        "options": [
+          "O Senado",
+          "O Fórum",
+          "O Coliseu",
+          "O Panteão"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quem foram os patrícios em Roma?",
+        "options": [
+          "Cidadãos de elite com direitos políticos",
+          "Camponeses e escravos",
+          "Guerreiros estrangeiros",
+          "Comerciantes fenícios"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Os plebeus em Roma eram:",
+        "options": [
+          "Cidadãos comuns com menos privilégios",
+          "Escravos sem direitos",
+          "Sacerdotes",
+          "Generais do exército"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Roma expandiu-se principalmente por meio de:",
+        "options": [
+          "Conquistas militares e alianças",
+          "Comércio apenas",
+          "Casamentos dinásticos",
+          "Migrações pacíficas"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "As Guerras Púnicas foram contra:",
+        "options": [
+          "Cartago",
+          "Grécia",
+          "Egito",
+          "Macedônia"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O general romano famoso por derrotar Aníbal foi:",
+        "options": [
+          "Escipião Africano",
+          "Júlio César",
+          "Marco Antônio",
+          "Cícero"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O período do Império Romano começou com:",
+        "options": [
+          "Augusto, o primeiro imperador",
+          "Júlio César",
+          "Nero",
+          "Trajano"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O latim era a língua oficial de:",
+        "options": [
+          "Roma",
+          "Cartago",
+          "Grécia",
+          "Egito"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O Panteão em Roma era um:",
+        "options": [
+          "Templo dedicado a todos os deuses",
+          "Mercado central",
+          "Teatro",
+          "Arena de gladiadores"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O Coliseu era usado para:",
+        "options": [
+          "Espetáculos públicos e lutas de gladiadores",
+          "Tribunais e julgamentos",
+          "Templos religiosos",
+          "Armazéns comerciais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A religião romana antiga era:",
+        "options": [
+          "Politeísta, com deuses como Júpiter e Marte",
+          "Monoteísta",
+          "Cristã desde o início",
+          "Islamismo"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O direito romano influenciou:",
+        "options": [
+          "Leis e sistemas jurídicos modernos",
+          "Somente a política romana",
+          "Agricultura",
+          "Artes marciais"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quem foi Júlio César?",
+        "options": [
+          "General e ditador que expandiu Roma",
+          "Filósofo grego",
+          "Faraó do Egito",
+          "Rei de Cartago"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A sociedade romana era dividida em:",
+        "options": [
+          "Patrícios, plebeus e escravos",
+          "Só aristocratas e comerciantes",
+          "Só soldados",
+          "Só agricultores"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O Fórum Romano era:",
+        "options": [
+          "Centro político, religioso e comercial",
+          "Somente um templo",
+          "Uma fortaleza militar",
+          "Uma estrada principal"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A expansão romana alcançou:",
+        "options": [
+          "Europa, Norte da África e Oriente Médio",
+          "Somente a Península Itálica",
+          "A Índia e China",
+          "O norte da África apenas"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A Pax Romana foi um período de:",
+        "options": [
+          "Paz e estabilidade no Império Romano",
+          "Guerras civis constantes",
+          "Invasões bárbaras",
+          "Crises econômicas extremas"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O calendário romano serviu de base para:",
+        "options": [
+          "O calendário moderno",
+          "Somente a agricultura romana",
+          "Rituais religiosos",
+          "Escrita latina"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "A engenharia romana destacou-se em:",
+        "options": [
+          "Estradas, aquedutos e pontes",
+          "Construção de pirâmides",
+          "Escolas filosóficas",
+          "Comércio marítimo"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O legado de Roma inclui:",
+        "options": [
+          "Direito, arquitetura, língua e administração",
+          "Somente a religião cristã",
+          "Agricultura e pastoreio",
+          "Pirâmides e templos egípcios"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "O território da Roma Antiga corresponde atualmente a:",
+        "options": [
+          "Itália e regiões do Mediterrâneo",
+          "Egito e Sudão",
+          "Grécia e Macedônia apenas",
+          "Mesopotâmia e Pérsia"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+  
+
+    ]
+  }
+  
