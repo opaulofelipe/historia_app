@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ stage.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header>
+    <h1>{{ stage.title }}</h1>
+    <div class="hearts">
+        {% if errors == 0 %}
+            ❤️ ❤️
+        {% elif errors == 1 %}
+            💔 ❤️
+        {% else %}
+            💔 💔
+        {% endif %}
+    </div>
+</header>
+
+<main class="quiz">
+
+    {% if error %}
+        <div class="error">{{ error }}</div>
+    {% endif %}
+
+    <form method="post">
+        <p class="question">{{ question.question }}</p>
+
+        <div class="options">
+            {% for option in question.options %}
+            <label class="option">
+                <input type="radio" name="option" value="{{ loop.index0 }}" required>
+                <div class="option-text">{{ option }}</div>
+            </label>
+            
+            {% endfor %}
+        </div>
+
+        <button type="submit">Confirmar</button>
+    </form>
+
+</main>
+
+</body>
+</html>

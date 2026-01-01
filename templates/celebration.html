@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Parabéns!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/style.css">
+    <style>
+        body {
+            margin: 0;
+            background: #0f172a;
+            color: white;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: system-ui, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 16px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 32px;
+        }
+
+        /* ===================== Confetes ===================== */
+        .confetti {
+            position: fixed;
+            width: 10px;
+            height: 10px;
+            background-color: #f59e0b;
+            top: 0;
+            left: 50%;
+            opacity: 0.7;
+            pointer-events: none;
+            animation: fall 3s linear infinite;
+        }
+
+        @keyframes fall {
+            0% { transform: translateY(0) rotate(0deg); }
+            100% { transform: translateY(100vh) rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+<h1>🎉 Parabéns! 🎉</h1>
+<p>Você concluiu a fase: {{ stage.title }}</p>
+
+<script>
+    // Gerar confetes aleatórios
+    const colors = ["#f43f5e","#fbbf24","#22c55e","#3b82f6","#a78bfa","#ec4899"];
+    const confettiCount = 100;
+
+    for (let i = 0; i < confettiCount; i++) {
+        const confetti = document.createElement("div");
+        confetti.classList.add("confetti");
+        confetti.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+        confetti.style.left = Math.random() * 100 + "vw";
+        confetti.style.animationDuration = 2 + Math.random() * 3 + "s";
+        confetti.style.width = 5 + Math.random() * 8 + "px";
+        confetti.style.height = 5 + Math.random() * 8 + "px";
+        document.body.appendChild(confetti);
+    }
+
+    // Redirecionar para página principal após 4 segundos
+    setTimeout(() => {
+        window.location.href = "/";
+    }, 4000);
+</script>
+
+</body>
+</html>

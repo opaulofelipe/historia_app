@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>História</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header class="board-header">
+    <h1>Antiguidade</h1>
+    <p>Escolha uma civilização</p>
+</header>
+
+<main class="board">
+
+{% for stage in stages %}
+    {% set concluido = stage.id in progress %}
+    {% set desbloqueado = loop.index0 == 0 or stages[loop.index0 - 1].id in progress %}
+
+    <div class="card {% if not desbloqueado %}locked{% endif %}">
+        <div
+            class="card-image"
+            {% if stage.id == "mesopotamia" %}
+                style="background-image: url('https://static.todamateria.com.br/upload/me/so/mesopotamia-og.jpg?class=ogImageRectangle');"
+            {% elif stage.id == "egito_antigo" %}
+                style="background-image: url('https://static.todamateria.com.br/upload/ar/te/arte-egipcia-og.jpg?class=ogImageRectangle');"
+            {% elif stage.id == "hebreus" %}
+                style="background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOx7pOrvCxPvC4-W7WUbEQQL3zPV-Xyf_aBsWPH_vjmgPp0-WsInd02P7AwnxaKixyI8y8r6OG-TFDWOaU2UiPLTxYiiwMyxBJEiUB4xqL60e1RHYwcn-Z-X5u8PY4UAoHbg_cVdUO_yg/s1600/2518668995_c86630304f.jpg');"
+            {% elif stage.id == "persas" %}
+                style="background-image: url('https://aventurasnahistoria.com.br/wp-content/uploads/curiosidades/ciro.jpg');"
+            {% elif stage.id == "fenicios" %}
+                style="background-image: url('https://s3.static.brasilescola.uol.com.br/be/2023/10/pintura-representando-os-fenicios-produzindo-purpura-tiria.jpg');"
+            {% elif stage.id == "maias" %}
+                style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyI8lA3lU5gaXRAmjLEAy5jsfRntGs8PUUIQ&s');"
+                {% elif stage.id == "cuxe" %}
+                style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqnhWk_0ZznAuRqE1bGDH3COZ5XmlEAAgPA&s');"
+                {% elif stage.id == "axum" %}
+                style="background-image: url('https://www.gov.br/palmares/pt-br/assuntos/noticias/reinos-e-imperios-africanos-2013-imperio-de-axum/etiopia-600x320.jpg/@@images/9920d7f3-f68b-4438-b68d-24093e610c5d.jpeg');"
+                {% elif stage.id == "punt" %}
+                style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/3c/Relief_of_Hatshepsut%27s_expedition_to_the_Land_of_Punt_by_%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82.jpg');"
+                {% elif stage.id == "grecia" %}
+                style="background-image: url('https://ensinarhistoria.com.br/s21/wp-content/uploads/2021/04/Pericles-discursando-aos-cidadaos-pintura-Philipp-Foltz-1877-700x450.png');"
+                {% elif stage.id == "roma_antiga" %}
+                style="background-image: url('https://aventurasnahistoria.com.br/wp-content/uploads/roma_antiga_cidade_capa.jpeg');"
+                {% elif stage.id == "cartago" %}
+                style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMALXikjzDiHIVmM0iiMY2TaBE-FHlt4u2CA&s');"
+            {% endif %}
+        ></div>
+    
+        <h2>{{ stage.title }}</h2>
+    
+        {% if concluido %}
+            <span class="status done">Concluído</span>
+        {% elif desbloqueado %}
+            <span class="status open">Disponível</span>
+        {% else %}
+            <span class="status locked">Bloqueado</span>
+        {% endif %}
+    
+        {% if desbloqueado %}
+            <a href="/stage/{{ stage.id }}" class="card-link"></a>
+        {% endif %}
+    </div>
+    
+{% endfor %}
+
+</main>
+
+</body>
+</html>
