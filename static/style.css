@@ -1,0 +1,191 @@
+* {
+    box-sizing: border-box;
+    font-family: system-ui, sans-serif;
+}
+
+body {
+    margin: 0;
+    background: #0f172a;
+    color: white;
+}
+
+/* ================= TABULEIRO ================= */
+
+.board-header {
+    padding: 24px;
+    text-align: center;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 24px;
+}
+
+.card {
+    background: #1e293b;
+    border-radius: 16px;
+    padding: 16px;
+    position: relative;
+    text-align: center;
+}
+
+.card.locked {
+    opacity: 0.4;
+}
+
+.card-image {
+    height: 128px;
+    width: 256;
+    background: #334155;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    background-size: cover;      /* FAZ A IMAGEM PREENCHER */
+    background-position: center; /* CENTRALIZA */
+    background-repeat: no-repeat;
+}
+
+.card h2 {
+    margin: 8px 0;
+}
+
+.status {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+}
+
+.status.open {
+    background: #22c55e;
+    color: #022c22;
+}
+
+.status.done {
+    background: #3b82f6;
+}
+
+.status.locked {
+    background: #64748b;
+}
+
+.card-link {
+    position: absolute;
+    inset: 0;
+}
+
+/* ================= QUIZ ================= */
+
+header {
+    text-align: center;
+    padding: 24px;
+}
+
+.hearts {
+    font-size: 1.5rem;
+}
+
+.quiz {
+    max-width: 500px;
+    margin: auto;
+    padding: 24px;
+}
+
+.question {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+/* ===== OPÇÕES (SEM RADIO VISÍVEL) ===== */
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* A OPÇÃO INTEIRA É CLICÁVEL */
+.option {
+    background: #1e293b;
+    padding: 14px;
+    border-radius: 12px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: background 0.2s, transform 0.1s, border 0.2s;
+}
+
+/* ESCONDE COMPLETAMENTE O RADIO */
+.option input {
+    display: none;
+}
+
+/* TEXTO DA OPÇÃO */
+.option-text {
+    pointer-events: none;
+}
+
+/* HOVER */
+.option:hover {
+    background: #334155;
+    transform: scale(1.01);
+}
+
+/* OPÇÃO SELECIONADA */
+.option:has(input:checked) {
+    background: #14532d;
+    border-color: #22c55e;
+}
+
+/* BOTÃO */
+button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 14px;
+    border-radius: 14px;
+    border: none;
+    background: #22c55e;
+    color: #022c22;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #16a34a;
+}
+
+/* ================= ERRO ================= */
+
+.error {
+    background: #7f1d1d;
+    padding: 12px;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+/* ================= MODAL ================= */
+
+.modal-body {
+    background: #0f172a;
+}
+
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal {
+    background: white;
+    color: black;
+    padding: 24px;
+    border-radius: 16px;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+}
